@@ -8,4 +8,4 @@ Gördüğünüz rüyaların tabirlerini içeren sitemizde zamanla tabirler daha 
 
 ### Rüya tabiri yaptırmak
 
-Eğer özel olarak rüya tabiri yaptırmak isterseniz bunun için issues bölümünden sorabilirsiniz.
+Eğer özel olarak rüya tabiri yaptırmak isterseniz bunun için issues bölümünden sorabilirsiniz. Yapay zeka uygulamamıza rüya tabiri yaptırmak için sitemizi kullanabilir veya paylaşacağımız rüya tabiri botunu kullanabilirsiniz.
