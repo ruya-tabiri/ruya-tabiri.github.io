@@ -9,3 +9,7 @@ Gördüğünüz rüyaların tabirlerini içeren sitemizde zamanla tabirler daha 
 ### Rüya tabiri yaptırmak
 
 Eğer özel olarak rüya tabiri yaptırmak isterseniz bunun için issues bölümünden sorabilirsiniz. Yapay zeka uygulamamıza rüya tabiri yaptırmak için sitemizi kullanabilir veya paylaşacağımız rüya tabiri botunu kullanabilirsiniz.
+
+### Yeni rüya tabirleri
+
+Yakın zamanda sitemize yeni rüya tabirleri eklenecektir. Bunlar yabancı kaynaklı olacağı için psikolojik açıdan çok daha iyi yorum ve tabirler olacağını düşünüyoruz. Türkiyenin en geniş kapsamlı rüya tabiri sitesi olduğumuzu rahatça iddia edebiliriz. 
